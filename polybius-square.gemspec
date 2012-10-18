@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = PolybiusSquare::VERSION
   gem.authors       = ["Nathan Wise"]
   gem.email         = ["nathanwise@gmail.com"]
-  gem.description   = %q{Polybius Square encoder/decoder}
-  gem.summary       = %q{Allows creation of Polybius Squares for encoding and decoding messages.}
+  gem.description   = %q{Polybius Square decoder}
+  gem.summary       = %q{Allows creation of Polybius Squares for decoding messages.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
